@@ -369,5 +369,4 @@ python make_call.py
 ## ⚖️ License
 MIT License. Created for Vobiz Telephony integration patterns.
 Developed by Piyush Sahoo.
-#   V o b i z - P y t h o n - X M L  
- 
+# Vobiz-Python-XML
